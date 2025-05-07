@@ -1,10 +1,3 @@
-## 📌 **Project Title:** `CausalCart: Causal Inference & Pricing Strategy in Multi-Sided Marketplaces`
-
----
-
-### 📄 `README.md`
-
-```markdown
 # CausalCart: Causal Inference & Pricing Strategy in Multi-Sided Marketplaces
 
 **CausalCart** is a data science project that simulates a multi-sided marketplace and applies causal inference, uplift modeling, and pricing optimization to evaluate the impact of pricing, incentives, and ad placements on customer behavior and revenue. Built to reflect real-world experimentation frameworks like those used in companies such as Instacart, Uber, and Amazon.
@@ -100,4 +93,4 @@ pip install -r requirements.txt
 
 # Launch dashboard
 streamlit run streamlit_app/main.py
-````
+
